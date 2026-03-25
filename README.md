@@ -39,21 +39,88 @@ VisionX provides a smart and intuitive platform that:
 
 ---
 
-## ⚙️ Tech Stack
+# 🚀 Project Tech Stack
 
-Frontend framework: Next.js 16 (App Router under /app)
-Language: TypeScript
-UI & styling: Tailwind CSS (+ @tailwindcss/postcss, postcss), tailwind-merge, tw-animate-css
-Component/UI libraries: Radix UI (@radix-ui/*), vaul, cmdk, sonner, lucide-react
-Forms & validation: react-hook-form, @hookform/resolvers, zod
-Animation: framer-motion
-Charts: recharts
-Date utils: date-fns
-Theming: next-themes
-Analytics: @vercel/analytics
-Package manager: pnpm (pnpm-lock.yaml)
+This project is built using a modern, scalable, and production-ready frontend stack.
+
 ---
 
+## 🧩 Core Framework
+- **Next.js 16** (App Router under `/app`)
+- **TypeScript**
+
+---
+
+## 🎨 UI & Styling
+- **Tailwind CSS**
+- **@tailwindcss/postcss**
+- **postcss**
+- **tailwind-merge**
+- **tw-animate-css**
+
+---
+
+## 🧱 Component & UI Libraries
+- **Radix UI** (`@radix-ui/*`)
+- **vaul**
+- **cmdk**
+- **sonner**
+- **lucide-react**
+
+---
+
+## 📝 Forms & Validation
+- **react-hook-form**
+- **@hookform/resolvers**
+- **zod**
+
+---
+
+## 🎬 Animation
+- **framer-motion**
+
+---
+
+## 📊 Charts & Data Visualization
+- **recharts**
+
+---
+
+## 📅 Date Utilities
+- **date-fns**
+
+---
+
+## 🌗 Theming
+- **next-themes**
+
+---
+
+## 📈 Analytics
+- **@vercel/analytics**
+
+---
+
+## 📦 Package Manager
+- **pnpm**  
+  (Lock file: `pnpm-lock.yaml`)
+
+---
+
+## ⚙️ Getting Started
+
+```bash
+# Install dependencies
+pnpm install
+
+# Run development server
+pnpm dev
+
+# Build for production
+pnpm build
+
+# Start production server
+pnpm start
 ## ✨ Key Features
 
 * 🚀 High-performance and scalable architecture
