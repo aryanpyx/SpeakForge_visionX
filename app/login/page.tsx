@@ -43,7 +43,7 @@ export default function LoginPage() {
             <div className="w-10 h-10 rounded-xl gradient-primary flex items-center justify-center">
               <Sparkles className="w-6 h-6 text-primary-foreground" />
             </div>
-            <span className="text-2xl font-bold text-foreground">CommAI</span>
+            <span className="text-2xl font-bold text-foreground">SpeakForge</span>
           </Link>
         </div>
 

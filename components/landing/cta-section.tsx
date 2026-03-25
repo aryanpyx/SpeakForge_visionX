@@ -31,7 +31,7 @@ export function CTASection() {
             </h2>
             <p className="mt-6 text-lg text-muted-foreground max-w-2xl mx-auto">
               Join thousands of professionals who have improved their interview performance
-              and landed their dream opportunities with CommAI.
+              and landed their dream opportunities with SpeakForge.
             </p>
 
             <div className="mt-8 flex flex-col sm:flex-row gap-4 justify-center">

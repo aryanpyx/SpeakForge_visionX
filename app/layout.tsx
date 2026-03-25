@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 })
 
 export const metadata: Metadata = {
-  title: 'CommAI - AI-Powered Communication Training',
+  title: 'SpeakForge - AI-Powered Communication Training',
   description: 'Master your communication skills with AI-powered interview practice, voice analysis, and personalized feedback.',
   generator: 'v0.app',
   icons: {

@@ -8,14 +8,14 @@ const testimonials = [
     name: "Sarah Chen",
     role: "Software Engineer at Google",
     avatar: "SC",
-    content: "CommAI helped me prepare for my technical interviews. The AI feedback on my communication style was incredibly detailed and helped me land my dream job.",
+    content: "SpeakForge helped me prepare for my technical interviews. The AI feedback on my communication style was incredibly detailed and helped me land my dream job.",
     rating: 5,
   },
   {
     name: "Michael Torres",
     role: "Product Manager at Meta",
     avatar: "MT",
-    content: "The voice analysis feature is game-changing. I never realized how much I was using filler words until CommAI pointed it out. My interview performance improved dramatically.",
+    content: "The voice analysis feature is game-changing. I never realized how much I was using filler words until SpeakForge pointed it out. My interview performance improved dramatically.",
     rating: 5,
   },
   {
@@ -29,7 +29,7 @@ const testimonials = [
     name: "David Park",
     role: "Sales Director at Salesforce",
     avatar: "DP",
-    content: "I recommend CommAI to everyone on my team. The personalized scenarios for sales presentations have significantly improved our pitch delivery.",
+    content: "I recommend SpeakForge to everyone on my team. The personalized scenarios for sales presentations have significantly improved our pitch delivery.",
     rating: 5,
   },
   {
@@ -43,7 +43,7 @@ const testimonials = [
     name: "James Miller",
     role: "Startup Founder",
     avatar: "JM",
-    content: "Preparing for investor pitches was stressful until I found CommAI. The instant feedback helped me refine my delivery and successfully close our Series A.",
+    content: "Preparing for investor pitches was stressful until I found SpeakForge. The instant feedback helped me refine my delivery and successfully close our Series A.",
     rating: 5,
   },
 ]
@@ -76,7 +76,7 @@ export function TestimonialsSection() {
             </span>
           </h2>
           <p className="mt-4 text-lg text-muted-foreground">
-            See how professionals and students have transformed their communication skills with CommAI.
+            See how professionals and students have transformed their communication skills with SpeakForge.
           </p>
         </motion.div>
 

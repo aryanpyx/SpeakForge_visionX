@@ -112,7 +112,7 @@ export function DashboardSidebar() {
                   animate={{ opacity: 1 }}
                   className="text-lg font-bold text-sidebar-foreground"
                 >
-                  CommAI
+                  SpeakForge
                 </motion.span>
               )}
             </Link>

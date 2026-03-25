@@ -47,7 +47,7 @@ export function Footer() {
               <div className="w-8 h-8 rounded-xl gradient-primary flex items-center justify-center">
                 <Sparkles className="w-5 h-5 text-primary-foreground" />
               </div>
-              <span className="text-xl font-bold text-foreground">CommAI</span>
+              <span className="text-xl font-bold text-foreground">SpeakForge</span>
             </Link>
             <p className="text-muted-foreground text-sm max-w-xs mb-6">
               Empowering professionals to master their communication skills 
@@ -139,7 +139,7 @@ export function Footer() {
         {/* Bottom Bar */}
         <div className="mt-12 pt-8 border-t border-border flex flex-col sm:flex-row justify-between items-center gap-4">
           <p className="text-sm text-muted-foreground">
-            {`© ${new Date().getFullYear()} CommAI. All rights reserved.`}
+            {`© ${new Date().getFullYear()} SpeakForge. All rights reserved.`}
           </p>
           <p className="text-sm text-muted-foreground">
             Made with care for better communication.

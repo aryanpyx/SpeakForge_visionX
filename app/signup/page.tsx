@@ -51,7 +51,7 @@ export default function SignupPage() {
               <div className="w-10 h-10 rounded-xl bg-white/20 flex items-center justify-center">
                 <Sparkles className="w-6 h-6 text-white" />
               </div>
-              <span className="text-2xl font-bold">CommAI</span>
+              <span className="text-2xl font-bold">SpeakForge</span>
             </Link>
 
             <h1 className="text-4xl font-bold mb-4 text-balance">
@@ -101,7 +101,7 @@ export default function SignupPage() {
               <div className="w-10 h-10 rounded-xl gradient-primary flex items-center justify-center">
                 <Sparkles className="w-6 h-6 text-primary-foreground" />
               </div>
-              <span className="text-2xl font-bold text-foreground">CommAI</span>
+              <span className="text-2xl font-bold text-foreground">SpeakForge</span>
             </Link>
           </div>
 
