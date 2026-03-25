@@ -9,7 +9,7 @@
 ## 👥 Team Members
 
 * Aryan Pandey
-* Samriddhi
+* Samriddhi Verma
 
 ---
 
