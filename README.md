@@ -41,25 +41,17 @@ VisionX provides a smart and intuitive platform that:
 
 ## ⚙️ Tech Stack
 
-*(Customize based on your project)*
-
-**Frontend:**
-
-* React / Next.js
-* Tailwind CSS
-
-**Backend:**
-
-* Node.js / Express
-
-**Database:**
-
-* MongoDB / Firebase
-
-**AI / APIs:**
-
-* OpenAI / Gemini API
-
+Frontend framework: Next.js 16 (App Router under /app)
+Language: TypeScript
+UI & styling: Tailwind CSS (+ @tailwindcss/postcss, postcss), tailwind-merge, tw-animate-css
+Component/UI libraries: Radix UI (@radix-ui/*), vaul, cmdk, sonner, lucide-react
+Forms & validation: react-hook-form, @hookform/resolvers, zod
+Animation: framer-motion
+Charts: recharts
+Date utils: date-fns
+Theming: next-themes
+Analytics: @vercel/analytics
+Package manager: pnpm (pnpm-lock.yaml)
 ---
 
 ## ✨ Key Features
