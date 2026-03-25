@@ -135,10 +135,10 @@ pnpm start
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-repo-link
+git clone https://github.com/SpeakForge_visionX
 
 # Navigate into project
-cd visionx
+cd SpeakForge_visionX
 
 # Install dependencies
 npm install
